@@ -1,0 +1,23 @@
+{
+  "name": "voice-ai-pipecat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@deepgram/sdk": "^4.9.1",
+    "@ricky0123/vad-web": "^0.0.24",
+    "airtable": "^0.12.2",
+    "axios": "^1.10.0",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "googleapis": "^152.0.0",
+    "onnxruntime-web": "^1.22.0",
+    "ws": "^8.18.3"
+  }
+}
